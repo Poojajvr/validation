@@ -1,0 +1,48 @@
+
+           header{
+               border-style:solid;
+               width:100%;
+               padding-right:0%;
+               background-color: blue;
+             padding-top:0% ;
+             font-size: 15px;
+             font-family: cursive;
+
+           }
+           .header{
+
+               width:100%;
+               padding-right:0%;
+           }
+           
+
+           
+           #header-td{
+               padding-left:30%;
+
+           }
+           h2{
+               font-family: cursive;
+           }
+           h3{
+               font-family:cursive;
+           }
+
+           footer
+           {
+            
+            position:fixed;
+            margin-left:0px;
+            bottom:0px;
+            width:98%;
+            background-color:black;         
+}
+
+a
+{
+    position: absolute;
+    right:5%;
+    top:5%;
+    font-size: 25px;
+}
+           
